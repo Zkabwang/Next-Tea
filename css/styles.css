@@ -232,7 +232,7 @@ p {
     z-index: 1;
     cursor: pointer;
     /* Animation */
-    animation: bounce 2s ease infinite;
+    animation: show 2s ease infinite;
 }
 
 .navbar {
